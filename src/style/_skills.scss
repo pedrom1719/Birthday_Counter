@@ -27,7 +27,7 @@
         &:hover{
             border: solid 2px config.$purpleColor;
 
-            transform: translateY(-10px);
+            transform: translateY(-10px) !important;
         }
 
         i{
